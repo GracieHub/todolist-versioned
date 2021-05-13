@@ -5,6 +5,7 @@ tmp
 .classpath
 .project
 .idea
+\ No newline at end of file
 *.iml
 *.ipr
 *.iws
